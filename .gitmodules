@@ -1,0 +1,3 @@
+[submodule "vender/zendapi"]
+	path = vender/zendapi
+	url = github:/qcoreteam/zendapi
